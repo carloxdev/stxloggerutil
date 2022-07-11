@@ -3,11 +3,11 @@
 Library for a faster logger implementation
 
 ## Requirements
----
+
 + Python >= 3.6
 
 ## Getting Started
----
+
 You can install the library with the following command:
 
     $ pip install stxloggerutil
